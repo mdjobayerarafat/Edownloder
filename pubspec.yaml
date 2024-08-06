@@ -38,6 +38,7 @@ dependencies:
   dio: ^4.0.4
   google_mobile_ads: ^1.2.1
   url_launcher: ^6.0.20
+  video_downloader: ^0.0.1
 
 dev_dependencies:
   flutter_test:
